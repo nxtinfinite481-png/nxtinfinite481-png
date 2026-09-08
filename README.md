@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./infinite-labs-intro.gif" alt="INFINITE LABS" width="100%">
-
-# INFINITE
+<img src="./profile-header.svg" alt="INFINITE LABS" width="100%">
 
 ### Founder of INFINITE LABS
 
@@ -36,6 +34,10 @@ I'm a fast learner who enjoys understanding new technologies, experimenting with
 
 <img src="./profile/top-langs.svg" alt="Top Languages">
 
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=nxtinfinite481-png&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
 </div>
 
 ---
@@ -62,7 +64,7 @@ I'm a fast learner who enjoys understanding new technologies, experimenting with
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <div align="center">
 
@@ -76,7 +78,7 @@ I'm a fast learner who enjoys understanding new technologies, experimenting with
 
 I learn new technologies quickly and like to understand **how things work**, not just how to use them.
 
-When I find something new, I experiment with it, break it, understand it, and build something useful with it.
+I enjoy experimenting with new tools, technologies and systems, then turning what I learn into useful projects.
 
 ---
 

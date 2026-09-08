@@ -32,19 +32,9 @@ I'm a fast learner who enjoys understanding new technologies, experimenting with
 
 <div align="center">
 
-<a href="https://github.com/nxtinfinite481-png">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nxtinfinite481-png&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
-</a>
+<img src="./profile/stats.svg" alt="GitHub Stats">
 
-<a href="https://github.com/nxtinfinite481-png">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtinfinite481-png&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages">
-</a>
-
-<br>
-
-<a href="https://github.com/nxtinfinite481-png">
-  <img src="https://streak-stats.demolab.com/?user=nxtinfinite481-png&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</a>
+<img src="./profile/top-langs.svg" alt="Top Languages">
 
 </div>
 
@@ -76,7 +66,7 @@ I'm a fast learner who enjoys understanding new technologies, experimenting with
 
 <div align="center">
 
-![GitHub Contribution Snake](./dist/github-snake.svg)
+<img src="./dist/github-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 

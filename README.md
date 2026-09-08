@@ -11,20 +11,19 @@ I also build and experiment with hosting infrastructure, server tools and automa
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_DISCORD_LINK">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.gg/pG22dSmAZD">
+    <img src="https://img.shields.io/badge/Discord-INFINITE%20LABS-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@infinite8labs">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-INFINITE%20LABS-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
+📧 **Email:** `infiniteispro8@gmail.com`
+
 ---
 
-## 🛠️ What I Work With
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,docker,python,nodejs,js,ts,react,cloudflare,github,supabase" />
@@ -53,12 +52,14 @@ I create tutorials and experiments related to:
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Currently Building
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+**INFINITE LABS** — Server & Hosting Projects
+
+Building and experimenting with servers, hosting infrastructure and automation.
 
 ---
 
-### ⚡ Currently Building
-
-**INFINITE LABS** — Server & Hosting projects
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
